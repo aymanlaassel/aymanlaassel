@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hey, I'm Ayman 👋
 
-<!--
-**aymanlaassel/aymanlaassel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS Undergrad at **Florida International University** in Miami, building toward AI/ML-focused software engineering. I like turning ideas into working products, and I'm learning how to do real research on the side.
 
-Here are some ideas to get you started:
+## What I do
+- 🎓 **STARS tutor at FIU:** helping students with CS, IT, data science, and cybersecurity courses
+- 🛠️ **INIT FIU Build team lead:** working on PantherPlay
+- 🧠 **Working on AI-native workspaces:** building tools where AI is part of how people organize and run their work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages
+English · Français · العربية · Español (some)
+
+## Reach me
+[LinkedIn](https://www.linkedin.com/in/ayman-laassel-4a3427323/) · [Email](mailto:ayman.laassel1@gmail.com)
