@@ -8,7 +8,7 @@ CS Undergrad at **Florida International University** in Miami, building toward A
 - 🧠 **Working on AI-native workspaces:** building tools where AI is part of how people organize and run their work
 
 ## Languages
-English · Français · العربية · Español (some)
+English · Français · العربية ·
 
 ## Reach me
 [LinkedIn](https://www.linkedin.com/in/ayman-laassel-4a3427323/) · [Email](mailto:ayman.laassel1@gmail.com)
