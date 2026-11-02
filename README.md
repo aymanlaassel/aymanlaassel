@@ -1,6 +1,6 @@
 # Hey, I'm Ayman 👋
 
-CS Undergrad at **Florida International University** in Miami, building toward AI/ML-focused software engineering. I like turning ideas into working products, and I'm learning how to do real research on the side.
+CS Undergrad at **Florida International University** in Miami, building toward AI/ML-focused software engineering. I like turning ideas into working products.
 
 ## What I do
 - 🎓 **STARS tutor at FIU:** helping students with CS, IT, data science, and cybersecurity courses
